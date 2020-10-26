@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CGGE", "CGGE.vcxproj", "{29606AB1-9CF6-4CCD-B4D2-9A9ECF84C544}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "..\Sandbox\Sandbox.vcxproj", "{EAFFA927-62BF-476A-A0C8-CA1CEEA5586F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{EAFFA927-62BF-476A-A0C8-CA1CEEA5586F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
